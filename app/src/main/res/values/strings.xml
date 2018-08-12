@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginSocial</string>
+    <string-array name="medicine_name">
+        <item>Acetaminophen</item>
+        <item>Adderall</item>
+        <item>Alprazolam</item>
+        <item>Amitriptyline</item>
+        <item>Amlodipine</item>
+        <item>Amoxicillin</item>
+        <item>Atorvastatin</item>
+    </string-array>
+    <string name="facebook_app_id">2035956249749111</string>
+</resources>

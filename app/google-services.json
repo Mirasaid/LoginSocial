@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633452699084",
+    "firebase_url": "https://loginsocial-206db.firebaseio.com",
+    "project_id": "loginsocial-206db",
+    "storage_bucket": "loginsocial-206db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633452699084:android:b654403330be6aa8",
+        "android_client_info": {
+          "package_name": "com.example.freewaresys.loginsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633452699084-acbgh6v48gf839feh2qre6d091m67skh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freewaresys.loginsocial",
+            "certificate_hash": "3ca515372a6e0391da693bcf54bf9c4c67ced0b4"
+          }
+        },
+        {
+          "client_id": "633452699084-g012dk9h9dmnvr1qk04h3953ru008uvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8VCUJiXqMJNyGRPmfOwdrCj8_KwQ9wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633452699084-g012dk9h9dmnvr1qk04h3953ru008uvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
